@@ -1,3 +1,7 @@
+--WORK IN PROGRESS--
+ - Left this code alone for some time, not really sure if it is complete or not, only remember that it works
+ - Further work in https://github.com/delagy/blinky-os
+
 Rust code to blink the onboard LED in a Raspberry Pi Zero 2 W
 
 Sources:
